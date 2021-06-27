@@ -1,6 +1,6 @@
 {
-  "name": "@mordv/clean-setup",
-  "version": "1.1.2",
+  "name": "@mordv/cra-template-clean-setup",
+  "version": "0.0.1",
   "keywords": [
     "react",
     "create-react-app",
@@ -10,7 +10,7 @@
   "description": "The base TypeScript template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mordv/clean-setup",
+    "url": "https://github.com/mordv/cra-template-clean-setup",
     "directory": "packages/cra-template-typescript"
   },
   "license": "MIT",
@@ -18,7 +18,7 @@
     "node": ">=10"
   },
   "bugs": {
-    "url": "https://github.com/mordv/clean-setup/issues"
+    "url": "https://github.com/mordv/cra-template-clean-setup/issues"
   },
   "files": [
     "template",
